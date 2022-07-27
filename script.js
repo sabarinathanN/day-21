@@ -61,6 +61,6 @@ setTimeout(()=>{
 var br1=document.createElement("br");
 setTimeout(()=>{
     document.write('<br/>');
-    document.write("HAPPY INDEPENDENCE DAY");
+    document.write("CONGRATULATIONS TIN TIN");
    
 },10000)
